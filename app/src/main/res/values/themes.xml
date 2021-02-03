@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TicTacToe" parent="Theme.MaterialComponents.DayNight">
+        <item name="background">@color/dark_gray</item>
+        <item name="color">@color/white</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="Theme.TicTacToe.Buttons" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorButtonNormal">@color/dark_gray</item>
+        <item name="android:backgroundTint">@color/dark_gray</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColorHint">@color/white</item>
+    </style>
+
+</resources>
