@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="img/tictactoeapp_example_play.jpg" height="500">
+</p>
+
 # ❌⭕ TicTacToeApp 
 
 [![version](https://img.shields.io/badge/version-v1.0.0-brightgreen.svg)](https://github.com/MartinKondor/TicTacToeApp) [![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/MartinKondor/TicTacToeApp) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg) [![GitHub Issues](https://img.shields.io/github/issues/MartinKondor/TicTacToeApp.svg)](https://github.com/MartinKondor/TicTacToeApp/issues)
