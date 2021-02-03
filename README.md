@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="img/tictactoeapp_example_play.jpg" height="500">
+    <img src="img/tictactoeapp_example_play.png" height="700">
 </p>
 
 # ❌⭕ TicTacToeApp 
